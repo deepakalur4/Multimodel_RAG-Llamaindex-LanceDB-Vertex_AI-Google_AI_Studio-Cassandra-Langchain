@@ -1,0 +1,34 @@
+Nike Shoes Specification
+==========================
+
+Model: Nike Air Max 270
+
+Overview:
+---------
+The Nike Air Max 270 combines modern style with innovative cushioning technology.
+Designed for everyday comfort and performance, it features a bold design with a large
+visible Air unit in the heel.
+
+Key Features:
+-------------
+- Upper Material: Textile and synthetic mesh for breathability and a lightweight fit.
+- Midsole: Foam construction with a prominent Air Max unit for exceptional cushioning.
+- Outsole: Durable rubber with a waffle-inspired pattern to provide traction on various surfaces.
+- Design: Contemporary athletic design available in multiple colorways.
+- Fit: True-to-size with standard US sizing; designed for comfort during daily activities and light athletic performance.
+
+Additional Details:
+-------------------
+- Weight: Approximately 280 grams per shoe (varies by size and model).
+- Intended Use: Ideal for casual wear, light running, and everyday activities.
+- Care Instructions: Hand wash with mild detergent and water; air dry. Avoid machine washing to maintain the integrity of the materials.
+
+Store Locations:
+----------------
+- Nike Flagship Store - New York: 123 5th Avenue, New York, NY, USA
+- Nike Store - Los Angeles: 456 Sunset Blvd, Los Angeles, CA, USA
+- Nike Store - Chicago: 789 Michigan Ave, Chicago, IL, USA
+- Nike Outlet - London: 12 Oxford Street, London, UK
+- Nike Outlet - Paris: 34 Champs-Elysées, Paris, France
+
+For further details or updated specifications, please refer to Nike's official website or local product listings.
